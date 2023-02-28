@@ -15,7 +15,3 @@
    - ### Heap Sort
    - ### Merge Sort
    - ### Quick Sort
- 
-
-  
-- ## [Demo Link](https://dhruvpasricha.github.io/Sorting_Visualizer/) 
